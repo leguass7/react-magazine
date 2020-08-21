@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="128px" height="128px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 38.78 38.78"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fil2 {fill:#A2A2A2}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <g id="_2208577298752">
+   <rect class="fil0" width="38.78" height="38.78"/>
+   <g>
+    <path class="fil1" d="M9.15 8.19l-0.93 0.9c-0.98,0.94 -0.98,2.5 0,3.45l7.2 6.97 -7.2 6.98c-0.98,0.95 -0.98,2.5 0,3.45l0.93 0.9c0.98,0.95 2.58,0.95 3.56,0l6.81 -6.59 6.8 6.59c0.98,0.95 2.58,0.95 3.56,0l0.93 -0.9c0.98,-0.95 0.98,-2.5 0,-3.45l-7.2 -6.98 7.2 -6.97c0.98,-0.95 0.98,-2.51 0,-3.45l-0.93 -0.9c-0.98,-0.95 -2.58,-0.95 -3.56,0l-6.8 6.59 -6.81 -6.59c-0.98,-0.95 -2.58,-0.95 -3.56,0z"/>
+    <path class="fil2" d="M8.9 7.94l-0.93 0.9c-0.98,0.95 -0.98,2.5 0,3.45l7.2 6.98 -7.2 6.97c-0.98,0.95 -0.98,2.5 0,3.45l0.93 0.9c0.98,0.95 2.58,0.95 3.56,0l6.8 -6.59 6.81 6.59c0.98,0.95 2.58,0.95 3.56,0l0.93 -0.9c0.98,-0.95 0.98,-2.5 0,-3.45l-7.2 -6.97 7.2 -6.98c0.98,-0.95 0.98,-2.5 0,-3.45l-0.93 -0.9c-0.98,-0.95 -2.58,-0.95 -3.56,0l-6.81 6.59 -6.8 -6.59c-0.98,-0.95 -2.58,-0.95 -3.56,0z"/>
+   </g>
+  </g>
+ </g>
+</svg>
